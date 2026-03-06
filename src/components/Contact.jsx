@@ -13,14 +13,14 @@ const Contact = () => {
                             <div className="icon-box"><i className="fa-solid fa-location-dot"></i></div>
                             <div style={{ textAlign: 'left' }}>
                                 <h4>Location</h4>
-                                <p>Sawkar Farm Estate, Maharashtra, India</p>
+                                <p>Sawkar Farms,Vangal,Satara Maharashtra, India</p>
                             </div>
                         </div>
                         <div className="info-item" style={{ marginBottom: '20px' }}>
                             <div className="icon-box"><i className="fa-solid fa-phone"></i></div>
                             <div style={{ textAlign: 'left' }}>
                                 <h4>Call Us</h4>
-                                <p>+91 98765 43210</p>
+                                <p>+91 92262 93615</p>
                             </div>
                         </div>
                         <div className="info-item" style={{ marginBottom: '20px' }}>
